@@ -114,7 +114,7 @@
     "qs": "^6.10.1",
     "source-map-support": "^0.5.19",
     "stats-lite": "^2.2.0",
-    "ts-mocha": "^8.0.0",
+    "ts-mocha": "^10.1.0",
     "upgrade": "^1.1.0",
     "uuid": "^3.4.0"
   },
