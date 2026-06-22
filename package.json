@@ -82,7 +82,7 @@
     "@types/qs": "^6.9.7",
     "@types/sinon": "^10.0.6",
     "@types/stats-lite": "^2.2.0",
-    "@uniswap/default-token-list": "^11.2.0",
+    "@uniswap/default-token-list": "^11.13.0",
     "@uniswap/permit2-sdk": "^1.2.0",
     "@uniswap/router-sdk": "^1.7.5",
     "@uniswap/sdk-core": "^4.0.7",
